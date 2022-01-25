@@ -9,6 +9,7 @@ I Am Nxt Stark.
 </samp>
 ---
 
+<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>  
 <p align="center">
   <a href="https://www.youtube.com/channel/UCrAM4Fg0zn7uLgAAfII-SWQ">
     <img src="https://img.shields.io/badge/youtube-grey?style=for-the-badge&logo=youtube"/>
