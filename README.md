@@ -1,6 +1,6 @@
 ### Hi there 👋
-# H Tech Media
-## Hello Everyone! 👋
+
+## Hello World! 👋
 
 
 <p align="center">
