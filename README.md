@@ -19,20 +19,7 @@ I Am Nxt Stark.
     <img src="https://img.shields.io/github/followers/Nxt-Stark?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>  
 </p>  
-<p align="center">  
-  <a href="https://instagram.com/nxt.stark">
-    <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://www.facebook.com/nxtstark">
-    <img src="https://img.shields.io/badge/facebook-grey?style=for-the-badge&logo=facebook"/>
-  </a> 
-  <a href="https://telegram.me/NxtStark">
-    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
-  </a>
-  <a href="https://telegram.me/HTechMediaSupport">
-    <img src="https://img.shields.io/badge/Support-grey?style=for-the-badge&logo=telegram"/>
-  </a>  
-</p>
+
 <p align="center">
 <a href="https://twitter.com/nxt_stark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nxt_stark" height="30" width="40" /></a>
 <a href="https://fb.com/nxtstark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nxtstark" height="30" width="40" /></a>
