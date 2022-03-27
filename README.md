@@ -33,7 +33,12 @@ I Am Nxt Stark.
     <img src="https://img.shields.io/badge/Support-grey?style=for-the-badge&logo=telegram"/>
   </a>  
 </p>
-
+<p align="center">
+<a href="https://twitter.com/nxt_stark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nxt_stark" height="30" width="40" /></a>
+<a href="https://fb.com/nxtstark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nxtstark" height="30" width="40" /></a>
+<a href="https://instagram.com/nxt.stark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nxt.stark" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/htechmedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="htechmedia" height="30" width="40" /></a>
+</p>
 ---
 
 <h3 align="center">Languages and Tools:</h3>
