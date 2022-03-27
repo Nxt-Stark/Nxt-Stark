@@ -11,7 +11,6 @@ I Am Nxt Stark.
 ---
 
 <h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋<img align="center" src="https://github.com/Nxt-Stark/Nxt-Stark/blob/main/assets/Handshake.gif" height="33px" /></h3>  
-<p align="center"> <a href="https://twitter.com/nxt_stark" target="blank"><img src="https://img.shields.io/twitter/follow/nxt_stark?logo=twitter&style=for-the-badge" alt="nxt_stark" height="27" width="160" /></a> </p> 
 
 <p align="center">
 <a href="https://twitter.com/nxt_stark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nxt_stark" height="30" width="40" /></a>
