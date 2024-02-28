@@ -29,7 +29,7 @@
 <p align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nxt-stark&show_icons=true&locale=en&theme=dark" alt="nxt-stark"  style="width: 400px;"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxt-stark&theme=dark" alt="nxt-stark"  style="width: 430px;"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxt-stark&theme=dark" alt="nxt-stark"  style="width: 420px;"/>
 </p>
 
 <h3 align="left">Support:</h3>
