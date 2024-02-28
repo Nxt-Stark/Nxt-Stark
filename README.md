@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi 👋, I'm Hadil</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
