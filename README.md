@@ -27,9 +27,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nxt-stark&show_icons=true&locale=en&layout=compact" alt="nxt-stark" style="width: 800px; height:200px;" /></p>
 <p align="center">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nxt-stark&show_icons=true&locale=en" alt="nxt-stark"  style="width: 400px;"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nxt-stark&show_icons=true&locale=en&theme=dark" alt="nxt-stark"  style="width: 400px;"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxt-stark&" alt="nxt-stark"  style="width: 400px;"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxt-stark&theme=dark" alt="nxt-stark"  style="width: 430px;"/>
 </p>
 
 <h3 align="left">Support:</h3>
