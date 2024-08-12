@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nxt-stark" alt="nxt-stark" /></a> </p>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nxt-Stark](https://github.com/Nxt-Stark)
 
